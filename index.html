@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Rate Increase Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="calculator">
+        <div id="header" class="header">my<span style="font-weight: 900;">choice</span></div>
+            <div class="title">
+                <h1>Rate Increase Calculator</h1>
+            </div>
+            <div class="wrapper">
+                <label for="insurer">Select your insurer:</label>
+                    <select id="insurer" >
+                        <option value="" disabled selected hidden>Please Choose...</option>
+                    </select>
+                <label for="signupDate">Enter your signup date:</label>
+                    <input type="date" id="signupDate">
+            <button id="calculate">Calculate Rate Increase</button>
+            <div id="results"></div>
+        </div>
+    </div>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

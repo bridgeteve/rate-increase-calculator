@@ -1,0 +1,74 @@
+h1 {
+    font-family:'Lato', sans-serif;
+    color: #3A3A3A
+}
+
+body  {
+font-family: 'Lato', sans-serif;
+color: #3A3A3A;
+background-color: #F8F8F8;
+}
+
+select {
+    border-radius: 10px;
+    border-color: #F2B479;
+    background-color: transparent;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+}
+select:hover {
+    cursor: pointer;
+}
+
+label {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+input[type="date"] {
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: thin;
+    padding: 5px;
+    border-color: #F2B479;  
+    font-family: 'Lato', sans-serif;
+}
+input:hover {
+    cursor: pointer;
+}
+input[type="date"]::-webkit-datetime-edit-text {
+    padding: 5px;
+    color: #3A3A3A;
+    outline: none;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+    background-color: #F2B479;
+    border-color: whitesmoke;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: none;
+    box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #8ED6DC;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 75vw;
+    margin: 0 auto;
+}
+
+.title {
+    margin-left: 12%;
+}
+.header {
+    font-size: 30px;
+}
