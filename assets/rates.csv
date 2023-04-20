@@ -1,0 +1,456 @@
+insurer,insurerGroup,approvedRateChange ,approvalDate,renewalEffectiveDate,marketShare,marketShareYear
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,0.00,"Dec 21, 2018","Jun 1, 2019",1.7450,2017
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,3.50,"Jul 24, 2019","Oct 1, 2019",1.7776,2018
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,4.80,"Oct 18, 2019","Feb 1, 2020",1.7776,2018
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,-0.24,"Mar 11, 2020","Jun 1, 2020",1.7776,2018
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,0.00,"Dec 10, 2020","May 1, 2021",1.7955,2019
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,0.00,"Sep 7, 2021","Jan 1, 2022",1.6683,2020
+Federated Insurance Company of Canada,Northbridge,0.00,"Apr 18, 2018","Jul 1, 2018",0.0235,2017
+Federated Insurance Company of Canada,Northbridge,0.00,"Aug 22, 2018","Nov 15, 2018",0.0235,2017
+Federated Insurance Company of Canada,Northbridge,0.00,"Aug 22, 2018","Nov 15, 2018",0.0235,2017
+Federated Insurance Company of Canada,Northbridge,0.00,"Sep 10, 2020","Jan 15, 2021",0.0265,2019
+Gore Mutual Insurance Company,Gore,9.43,"Dec 12, 2017","Apr 1, 2018",1.6313,2017
+Gore Mutual Insurance Company,Gore,0.00,"Mar 20, 2018","Jul 1, 2018",1.6313,2017
+Gore Mutual Insurance Company,Gore,4.97,"Nov 15, 2019","Mar 1, 2020",1.4946,2018
+Gore Mutual Insurance Company,Gore,-4.96,"Oct 8, 2020","Jan 1, 2021",1.4325,2019
+Gore Mutual Insurance Company,Gore,0.00,"Feb 22, 2021","Oct 4, 2021",1.3924,2020
+Gore Mutual Insurance Company,Gore,0.23,"Jun 23, 2021","Oct 4, 2021",1.3924,2020
+Guarantee Company of North America (The),Intact,4.26,"Feb 21, 2018","Apr 15, 2018",0.5992,2017
+Guarantee Company of North America (The),Intact,0.00,"Apr 16, 2018","Jul 1, 2018",0.5992,2017
+Guarantee Company of North America (The),Intact,6.66,"Nov 1, 2018","Jan 1, 2019",0.5992,2017
+Guarantee Company of North America (The),Intact,11.31,"May 22, 2019","Aug 1, 2019",0.6230,2018
+Guarantee Company of North America (The),Intact,7.54,"Oct 29, 2019","Jan 15, 2020",0.6230,2018
+Hartford Fire Insurance Company,Hartford,0.00,"Apr 4, 2018","Jul 1, 2018",0.0007,2017
+Hartford Fire Insurance Company,Hartford,34.87,"Dec 19, 2018","Apr 1, 2019",0.0007,2017
+Heartland Farm Mutual Inc.,Heartland,0.00,"Mar 28, 2018","Jul 1, 2018",0.3282,2017
+Heartland Farm Mutual Inc.,Heartland,5.29,"Jul 16, 2018","Oct 15, 2018",0.3282,2017
+Heartland Farm Mutual Inc.,Heartland,6.98,"Nov 14, 2018","Feb 1, 2019",0.3282,2017
+Heartland Farm Mutual Inc.,Heartland,0.00,"Mar 11, 2019","Jul 1, 2019",0.3307,2018
+Heartland Farm Mutual Inc.,Heartland,4.75,"Jul 19, 2019","Nov 15, 2019",0.3307,2018
+Heartland Farm Mutual Inc.,Heartland,4.94,"Jan 24, 2020","May 1, 2020",0.3307,2018
+Heartland Farm Mutual Inc.,Heartland,-0.42,"May 8, 2020","Jan 1, 2021",0.3029,2019
+Heartland Farm Mutual Inc.,Heartland,-4.95,"Apr 29, 2021","Jul 1, 2021",0.3225,2020
+Heartland Farm Mutual Inc.,Heartland,-5.60,"Jul 12, 2021","Nov 1, 2021",0.3225,2020
+Intact Insurance Company,Intact,5.12,"Mar 9, 2018","May 11, 2018",9.3074,2017
+Intact Insurance Company,Intact,0.00,"May 17, 2018","Sep 8, 2018",9.3074,2017
+Intact Insurance Company,Intact,5.99,"Aug 10, 2018","Oct 19, 2018",9.3074,2017
+Intact Insurance Company,Intact,5.00,"Jun 20, 2019","Sep 7, 2019",8.0781,2018
+Intact Insurance Company,Intact,0.00,"Sep 12, 2019","Dec 6, 2019",8.0781,2018
+Intact Insurance Company,Intact,5.00,"Nov 15, 2019","Feb 8, 2020",8.0781,2018
+Intact Insurance Company,Intact,0.12,"Jan 22, 2020","Apr 10, 2020",8.0781,2018
+Intact Insurance Company,Intact,0.00,"Mar 17, 2020","Jun 15, 2020",8.0781,2018
+Intact Insurance Company,Intact,-0.08,"May 14, 2020","Aug 30, 2020",7.6269,2019
+Intact Insurance Company,Intact,-2.15,"Sep 11, 2020","Dec 18, 2020",7.6269,2019
+Intact Insurance Company,Intact,-1.90,"Jun 22, 2021","Oct 1, 2021",8.2893,2020
+Intact Insurance Company,Intact,0.00,"Oct 20, 2021","Feb 5, 2022",8.2893,2020
+Scottish & York Insurance Co. Limited,Aviva,-0.68,"Nov 19, 2021","Feb 15, 2022",1.1030,2020
+Aviva Insurance Company of Canada,Aviva,-0.76,"Nov 19, 2021","Feb 15, 2022",5.2874,2020
+Traders General Insurance Company,Aviva,-0.67,"Nov 19, 2021","Feb 15, 2022",1.5475,2020
+Security National Insurance Company,TD,-0.02,"Nov 18, 2021","Mar 25, 2022",6.6782,2020
+AIG Insurance Company of Canada,AIG,0.00,"Mar 28, 2018","Oct 28, 2018",0.0491,2017
+Allstate Insurance Company of Canada,Allstate,3.13,"Dec 28, 2017","Feb 16, 2018",5.5551,2017
+Allstate Insurance Company of Canada,Allstate,0.00,"Jan 25, 2018","Jul 1, 2018",5.5551,2017
+Allstate Insurance Company of Canada,Allstate,0.00,"Mar 28, 2018","Sep 1, 2018",5.5551,2017
+Allstate Insurance Company of Canada,Allstate,0.00,"Jun 8, 2018","Sep 1, 2018",5.5551,2017
+Allstate Insurance Company of Canada,Allstate,4.50,"Dec 12, 2018","Mar 1, 2019",5.5551,2017
+Allstate Insurance Company of Canada,Allstate,0.51,"Feb 28, 2019","May 19, 2019",5.5551,2017
+Allstate Insurance Company of Canada,Allstate,2.99,"Aug 29, 2019","Nov 19, 2019",5.3244,2018
+Allstate Insurance Company of Canada,Allstate,0.00,"Sep 27, 2019","Jan 1, 2020",5.3244,2018
+Allstate Insurance Company of Canada,Allstate,0.00,"Oct 1, 2019","Dec 15, 2019",5.3244,2018
+Allstate Insurance Company of Canada,Allstate,0.02,"Nov 29, 2019","Feb 1, 2020",5.3244,2018
+Allstate Insurance Company of Canada,Allstate,0.00,"Apr 9, 2020","Jul 1, 2020",5.3274,2019
+Allstate Insurance Company of Canada,Allstate,0.00,"Jan 12, 2021","Mar 15, 2021",5.3274,2019
+Allstate Insurance Company of Canada,Allstate,-7.46,"Sep 2, 2021","Nov 13, 2021",5.3858,2020
+Aviva General Insurance Company,Aviva,0.00,"Sep 7, 2017","Jan 15, 2018",5.3308,2017
+Aviva General Insurance Company,Aviva,2.77,"Dec 15, 2017","Apr 1, 2018",5.3308,2017
+Aviva General Insurance Company,Aviva,6.30,"Jul 24, 2018","Nov 1, 2018",5.3308,2017
+Aviva General Insurance Company,Aviva,16.80,"Dec 28, 2018","Mar 20, 2019",5.3308,2017
+Aviva General Insurance Company,Aviva,3.99,"Nov 22, 2019","Mar 20, 2020",4.9080,2018
+Aviva General Insurance Company,Aviva,0.00,"Sep 25, 2020","Jan 1, 2021",4.1098,2019
+Aviva General Insurance Company,Aviva,0.20,"Sep 17, 2021","Jan 1, 2022",3.6169,2020
+Aviva Insurance Company of Canada,Aviva,5.44,"Dec 14, 2017","Mar 1, 2018",6.5948,2017
+Aviva Insurance Company of Canada,Aviva,2.97,"Apr 27, 2018","Jun 18, 2018",6.5948,2017
+Aviva Insurance Company of Canada,Aviva,8.63,"Dec 7, 2018","Feb 1, 2019",6.5948,2017
+Aviva Insurance Company of Canada,Aviva,5.41,"Sep 24, 2019","Feb 1, 2020",5.9881,2018
+Aviva Insurance Company of Canada,Aviva,0.15,"Mar 29, 2021","Aug 1, 2021",5.2874,2020
+Aviva Insurance Company of Canada,Aviva,0.00,"Aug 23, 2021","Nov 10, 2021",5.2874,2020
+Belair Insurance Company Inc.,Intact,3.97,"Jan 3, 2018","Mar 21, 2018",5.1872,2017
+Belair Insurance Company Inc.,Intact,0.00,"Apr 27, 2018","Oct 8, 2018",5.1872,2017
+Belair Insurance Company Inc.,Intact,5.00,"Sep 10, 2018","Nov 12, 2018",5.1872,2017
+Belair Insurance Company Inc.,Intact,0.00,"Dec 20, 2018","Apr 1, 2019",5.1872,2017
+Belair Insurance Company Inc.,Intact,5.02,"Jun 11, 2019","Aug 9, 2019",4.8433,2018
+Belair Insurance Company Inc.,Intact,0.00,"Sep 24, 2019","Dec 16, 2019",4.8433,2018
+Belair Insurance Company Inc.,Intact,4.98,"Mar 11, 2020","Jul 28, 2020",4.9602,2019
+Belair Insurance Company Inc.,Intact,-1.11,"Sep 17, 2020","Dec 14, 2020",4.9602,2019
+Belair Insurance Company Inc.,Intact,-1.85,"Oct 30, 2020","Jan 15, 2021",4.9602,2019
+Belair Insurance Company Inc.,Intact,0.00,"Jan 27, 2021","Apr 5, 2021",4.9602,2019
+Belair Insurance Company Inc.,Intact,-0.43,"Oct 28, 2021","Feb 6, 2022",5.2887,2020
+CAA Insurance Company,CAA,-0.09,"Aug 11, 2017","Jan 15, 2018",1.3779,2017
+CAA Insurance Company,CAA,0.00,"Feb 22, 2018","Jul 15, 2018",1.3779,2017
+Chubb Insurance Company of Canada,Chubb,0.00,"Apr 5, 2018","Oct 1, 2018",0.4404,2017
+Chubb Insurance Company of Canada,Chubb,5.28,"Sep 18, 2018","Jan 1, 2019",0.4404,2017
+Chubb Insurance Company of Canada,Chubb,6.28,"Aug 9, 2019","Jan 1, 2020",0.4218,2018
+Co-operators General Insurance Company,Co-op,2.50,"Feb 28, 2018","May 19, 2018",5.0993,2017
+Co-operators General Insurance Company,Co-op,0.00,"Dec 18, 2017","Mar 1, 2019",5.0993,2017
+Co-operators General Insurance Company,Co-op,0.88,"Mar 21, 2018","May 19, 2018",5.0993,2017
+Co-operators General Insurance Company,Co-op,0.00,"Apr 4, 2018","Aug 10, 2018",5.0993,2017
+Co-operators General Insurance Company,Co-op,5.01,"Jan 11, 2019","May 19, 2019",5.0993,2017
+Co-operators General Insurance Company,Co-op,0.15,"Jan 17, 2019","May 19, 2019",5.0993,2017
+Co-operators General Insurance Company,Co-op,0.00,"May 9, 2019","Aug 9, 2019",5.5137,2018
+Co-operators General Insurance Company,Co-op,6.20,"Sep 9, 2019","Jan 10, 2020",5.5137,2018
+Co-operators General Insurance Company,Co-op,-0.56,"Dec 19, 2019","Jun 22, 2020",5.5137,2018
+Co-operators General Insurance Company,Co-op,-0.46,"Aug 11, 2020","Nov 28, 2020",5.7675,2019
+Co-operators General Insurance Company,Co-op,0.34,"Dec 7, 2020","Feb 7, 2021",5.7675,2019
+Co-operators General Insurance Company,Co-op,0.00,"Jun 18, 2021","Sep 10, 2021",6.8397,2020
+Co-operators General Insurance Company,Co-op,0.00,"Aug 20, 2021","Nov 12, 2021",6.8397,2020
+Coachman Insurance Company,SGI,9.60,"Jul 17, 2018","Sep 22, 2018",0.4595,2017
+Coachman Insurance Company,SGI,16.02,"Nov 6, 2018","Jan 15, 2019",0.4595,2017
+Coachman Insurance Company,SGI,7.50,"Aug 9, 2019","Dec 1, 2019",0.1951,2018
+CAA Insurance Company,CAA,0.00,"Mar 14, 2018","Jul 1, 2018",1.3779,2017
+CAA Insurance Company,CAA,1.65,"Nov 21, 2018","Feb 15, 2019",1.3779,2017
+CAA Insurance Company,CAA,0.00,"Jan 11, 2019","Feb 1, 2019",1.3779,2017
+CAA Insurance Company,CAA,-1.20,"Apr 18, 2019","Oct 1, 2019",1.5802,2018
+CAA Insurance Company,CAA,3.95,"Oct 11, 2019","Apr 15, 2020",1.5802,2018
+CAA Insurance Company,CAA,0.00,"Jul 23, 2021","Jan 15, 2022",2.2816,2020
+Certas Direct Insurance Company,Desjardins,7.70,"Mar 15, 2018","May 28, 2018",2.7988,2017
+Certas Direct Insurance Company,Desjardins,0.00,"May 15, 2018","Oct 2, 2018",2.7988,2017
+Certas Direct Insurance Company,Desjardins,2.80,"Sep 17, 2018","Sep 5, 2018",2.7988,2017
+Certas Direct Insurance Company,Desjardins,14.57,"Dec 21, 2018","Mar 12, 2019",2.7988,2017
+Certas Direct Insurance Company,Desjardins,0.00,"Jan 24, 2019","Apr 30, 2019",2.7988,2017
+Certas Direct Insurance Company,Desjardins,0.00,"Sep 3, 2019","Nov 19, 2019",2.9714,2018
+Certas Direct Insurance Company,Desjardins,3.94,"Jan 31, 2020","May 21, 2020",2.9714,2018
+Certas Direct Insurance Company,Desjardins,0.00,"Apr 15, 2021","Apr 23, 2021",2.5921,2019
+Certas Home and Auto Insurance Company,Desjardins,4.79,"Mar 23, 2018","May 28, 2018",8.5214,2017
+Certas Home and Auto Insurance Company,Desjardins,0.00,"May 9, 2018","Oct 2, 2018",8.5214,2017
+Certas Home and Auto Insurance Company,Desjardins,0.00,"Jul 26, 2018","Dec 14, 2018",8.5214,2017
+Certas Home and Auto Insurance Company,Desjardins,9.92,"Jan 30, 2019","Apr 30, 2019",8.5214,2017
+Certas Home and Auto Insurance Company,Desjardins,0.00,"Jan 31, 2019","Apr 30, 2019",8.5214,2017
+Certas Home and Auto Insurance Company,Desjardins,2.33,"Jun 28, 2019","Sep 17, 2019",9.2708,2018
+Certas Home and Auto Insurance Company,Desjardins,0.00,"Sep 3, 2019","Nov 19, 2019",9.2708,2018
+Certas Home and Auto Insurance Company,Desjardins,4.96,"Jan 31, 2020","May 21, 2020",9.2708,2018
+Certas Home and Auto Insurance Company,Desjardins,4.73,"Mar 23, 2021","Nov 2, 2021",9.5790,2020
+Certas Home and Auto Insurance Company,Desjardins,0.00,"Apr 15, 2021","Apr 23, 2021",10.2021,2019
+Personal Insurance Company (The),Desjardins,3.85,"Jan 31, 2020","May 21, 2020",4.2175,2018
+Personal Insurance Company (The),Desjardins,0.00,"Apr 15, 2021","Apr 23, 2021",4.1906,2019
+Portage la Prairie Mutual Insurance Company (The),Portage,4.81,"Mar 7, 2018","Jun 1, 2018",0.1807,2017
+Portage la Prairie Mutual Insurance Company (The),Portage,0.00,"Apr 4, 2018","Jul 1, 2018",0.1807,2017
+Portage la Prairie Mutual Insurance Company (The),Portage,0.00,"May 14, 2019","Sep 1, 2019",0.1761,2018
+Portage la Prairie Mutual Insurance Company (The),Portage,-0.03,"Oct 30, 2020","Feb 1, 2021",0.1784,2019
+Primmum Insurance Company,TD,-0.01,"Oct 18, 2017","Jan 15, 2018",1.5809,2017
+Primmum Insurance Company,TD,0.00,"Jan 29, 2018","Jan 30, 2018",1.5809,2017
+Primmum Insurance Company,TD,5.01,"May 2, 2018","Jul 15, 2018",1.5809,2017
+Primmum Insurance Company,TD,0.02,"Mar 5, 2019","Jun 12, 2019",1.5809,2017
+Primmum Insurance Company,TD,8.87,"Apr 18, 2019","Jul 15, 2019",1.4984,2018
+Primmum Insurance Company,TD,-0.15,"Sep 10, 2019","Dec 10, 2019",1.4984,2018
+Primmum Insurance Company,TD,1.00,"Jan 9, 2020","May 16, 2020",1.4984,2018
+Primmum Insurance Company,TD,5.00,"Mar 17, 2020","Jul 15, 2020",1.5106,2019
+Primmum Insurance Company,TD,0.00,"Oct 22, 2020","Jan 15, 2021",1.5106,2019
+Primmum Insurance Company,TD,0.00,"Feb 2, 2021","May 22, 2021",1.5106,2019
+Primmum Insurance Company,TD,-0.29,"Jun 24, 2021","Oct 6, 2021",1.5441,2020
+Primmum Insurance Company,TD,0.00,"Sep 3, 2021","Dec 1, 2021",1.5441,2020
+Royal & SunAlliance Insurance Company of Canada,RSA,2.25,"Sep 29, 2017","Jan 1, 2018",1.0657,2017
+Royal & SunAlliance Insurance Company of Canada,RSA,2.50,"Jul 12, 2018","Sep 15, 2018",1.0657,2017
+Royal & SunAlliance Insurance Company of Canada,RSA,6.46,"Feb 19, 2019","May 15, 2019",1.0657,2017
+Royal & SunAlliance Insurance Company of Canada,RSA,0.00,"Apr 18, 2019","Jul 20, 2019",1.0881,2018
+Security National Insurance Company,TD,4.60,"Oct 25, 2022","Feb 12, 2023",6.6744,2021
+S&Y Insurance Company,Aviva,-1.26,"Jan 12, 2018","Apr 1, 2018",0.0579,2017
+S&Y Insurance Company,Aviva,3.71,"May 14, 2018","Aug 1, 2018",0.0579,2017
+S&Y Insurance Company,Aviva,9.48,"Dec 10, 2018","Mar 20, 2019",0.0579,2017
+S&Y Insurance Company,Aviva,6.31,"Jan 9, 2020","May 1, 2020",0.1058,2018
+Scottish & York Insurance Co. Limited,Aviva,6.42,"Dec 14, 2017","Mar 1, 2018",1.1524,2017
+Scottish & York Insurance Co. Limited,Aviva,0.53,"Apr 27, 2018","Jun 18, 2018",1.1524,2017
+Scottish & York Insurance Co. Limited,Aviva,5.84,"Dec 7, 2018","Feb 1, 2019",1.1524,2017
+Scottish & York Insurance Co. Limited,Aviva,11.05,"Oct 3, 2019","Feb 1, 2020",1.1145,2018
+Scottish & York Insurance Co. Limited,Aviva,0.40,"Mar 29, 2021","Aug 1, 2021",1.1030,2020
+Scottish & York Insurance Co. Limited,Aviva,0.00,"Aug 23, 2021","Nov 10, 2021",1.1030,2020
+Security National Insurance Company,TD,0.00,"Oct 18, 2017","Jan 15, 2018",6.8068,2017
+Security National Insurance Company,TD,0.00,"Jan 29, 2018","Jan 30, 2018",6.8068,2017
+Security National Insurance Company,TD,3.99,"May 2, 2018","Jul 15, 2018",6.8068,2017
+Security National Insurance Company,TD,-0.03,"Mar 5, 2019","Jun 12, 2019",6.8068,2017
+Security National Insurance Company,TD,8.81,"Apr 18, 2019","Jul 15, 2019",6.5608,2018
+Security National Insurance Company,TD,0.04,"Sep 10, 2019","Dec 10, 2019",6.5608,2018
+Security National Insurance Company,TD,1.13,"Jan 9, 2020","May 16, 2020",6.5608,2018
+Security National Insurance Company,TD,4.99,"Mar 17, 2020","Jul 15, 2020",6.5283,2019
+Security National Insurance Company,TD,0.00,"Oct 22, 2020","Jan 15, 2021",6.5283,2019
+Security National Insurance Company,TD,0.00,"Feb 2, 2021","May 22, 2021",6.5283,2019
+Security National Insurance Company,TD,-0.31,"Jun 24, 2021","Oct 6, 2021",6.6782,2020
+Security National Insurance Company,TD,0.00,"Sep 3, 2021","Dec 1, 2021",6.6782,2020
+SGI CANADA Insurance Services Ltd.,SGI,0.00,"Apr 25, 2018","Jul 1, 2018",0.0693,2017
+SGI CANADA Insurance Services Ltd.,SGI,-0.69,"Jun 5, 2018","Aug 15, 2018",0.0693,2017
+SGI CANADA Insurance Services Ltd.,SGI,10.01,"Mar 13, 2019","May 15, 2019",0.0693,2017
+SGI CANADA Insurance Services Ltd.,SGI,9.99,"Dec 9, 2019","Mar 1, 2020",0.3711,2018
+Sonnet Insurance Company,Economical,9.96,"Jan 10, 2018","Feb 28, 2018",0.5096,2017
+Sonnet Insurance Company,Economical,14.55,"Oct 2, 2018","Dec 15, 2018",0.5096,2017
+Sonnet Insurance Company,Economical,0.00,"Oct 5, 2018","Jan 28, 2019",0.5096,2017
+Sonnet Insurance Company,Economical,20.04,"Jun 13, 2019","Aug 18, 2019",0.7410,2018
+Sonnet Insurance Company,Economical,2.47,"Mar 13, 2020","Apr 26, 2020",0.7410,2018
+Sonnet Insurance Company,Economical,0.00,"Sep 17, 2020","Nov 15, 2020",0.8351,2019
+Sonnet Insurance Company,Economical,4.99,"Feb 8, 2021","Mar 30, 2021",0.8351,2019
+Sonnet Insurance Company,Economical,0.96,"May 27, 2021","Jul 17, 2021",0.8128,2020
+Sovereign General Insurance Company (The),Co-op,0.00,"Apr 12, 2018","Jul 1, 2018",0.0012,2017
+Sovereign General Insurance Company (The),Co-op,0.00,"May 21, 2019","Aug 14, 2019",0.0012,2018
+S&Y Insurance Company,Aviva,-0.06,"Sep 3, 2021","Feb 1, 2022",0.2436,2020
+TD General Insurance Company,TD,0.00,"Oct 18, 2017","Jan 15, 2018",1.6967,2017
+TD General Insurance Company,TD,0.00,"Jan 29, 2018","Jan 30, 2018",1.6967,2017
+TD General Insurance Company,TD,2.02,"May 8, 2018","Jul 15, 2018",1.6967,2017
+TD General Insurance Company,TD,0.00,"Mar 5, 2019","Jun 12, 2019",1.6967,2017
+TD General Insurance Company,TD,8.80,"Apr 18, 2019","Jul 15, 2019",1.7003,2018
+TD General Insurance Company,TD,-0.20,"Sep 10, 2019","Dec 10, 2019",1.7003,2018
+TD General Insurance Company,TD,1.36,"Jan 9, 2020","May 16, 2020",1.7003,2018
+TD General Insurance Company,TD,4.99,"Mar 17, 2020","Jul 15, 2020",1.8228,2019
+TD General Insurance Company,TD,0.00,"Oct 22, 2020","Jan 15, 2021",1.8228,2019
+TD General Insurance Company,TD,0.00,"Feb 2, 2021","May 22, 2021",1.8228,2019
+TD General Insurance Company,TD,-0.51,"Jun 24, 2021","Oct 6, 2021",2.0756,2020
+TD General Insurance Company,TD,0.00,"Sep 3, 2021","Dec 1, 2021",2.0756,2020
+Tokio Marine and Nichido Fire Insurance Company Limited,Tokio,0.00,"Apr 18, 2018","Jul 1, 2018",0.0056,2017
+Tokio Marine and Nichido Fire Insurance Company Limited,Tokio,0.00,"Jun 6, 2018","Aug 1, 2018",0.0056,2017
+Traders General Insurance Company,Aviva,3.23,"Dec 14, 2017","Mar 1, 2018",1.6284,2017
+Traders General Insurance Company,Aviva,0.52,"Apr 27, 2018","Jun 18, 2018",1.6284,2017
+Traders General Insurance Company,Aviva,8.64,"Dec 7, 2018","Feb 1, 2019",1.6284,2017
+Traders General Insurance Company,Aviva,5.62,"Oct 3, 2019","Feb 1, 2020",1.6112,2018
+Traders General Insurance Company,Aviva,0.00,"Jan 7, 2020","Feb 1, 2020",1.6112,2018
+Traders General Insurance Company,Aviva,0.73,"Mar 29, 2021","Aug 1, 2021",1.5475,2020
+Traders General Insurance Company,Aviva,0.00,"Aug 23, 2021","Nov 10, 2021",1.5475,2020
+Unica Insurance Inc.,La Capitale,6.96,"Nov 16, 2017","Feb 7, 2018",0.5742,2017
+Unica Insurance Inc.,La Capitale,2.47,"Mar 6, 2018","Jun 17, 2018",0.5742,2017
+Unica Insurance Inc.,La Capitale,0.00,"Mar 20, 2018","Jul 1, 2018",0.5742,2017
+Unica Insurance Inc.,La Capitale,6.35,"Mar 1, 2019","Jun 3, 2019",0.5742,2017
+Unica Insurance Inc.,La Capitale,4.78,"Dec 19, 2019","Apr 1, 2020",0.5521,2018
+Unifund Assurance Company,RSA,4.35,"Mar 14, 2018","Jun 1, 2018",2.9626,2017
+Unifund Assurance Company,RSA,0.00,"Apr 10, 2018","Sep 1, 2018",2.9626,2017
+Unifund Assurance Company,RSA,4.04,"Dec 20, 2018","Apr 1, 2019",2.9626,2017
+Gore Mutual Insurance Company,Gore,-0.15,"Jan 10, 2022","Jun 1, 2022",1.3924,2020
+Intact Insurance Company,Intact,-0.49,"Jan 13, 2022","Jun 10, 2022",8.2893,2020
+Sonnet Insurance Company,Economical,4.00,"Dec 23, 2021","Mar 23, 2022",0.8128,2020
+Unifund Assurance Company,RSA,-0.67,"Feb 25, 2022","May 1, 2022",3.3750,2020
+Commonwell Mutual Insurance Group (The),Commonwell,-2.11,"Mar 18, 2022","Sep 1, 2022",0.0000,2021
+Sonnet Insurance Company,Definity,-0.30,"Mar 15, 2022","May 5, 2022",0.8128,2020
+Intact Insurance Company,Intact,1.16,"Mar 23, 2022","Jun 14, 2022",8.2893,2020
+Belair Insurance Company Inc.,Intact,-0.74,"Mar 23, 2022","Mar 31, 2022",5.2887,2020
+Intact Insurance Company,Intact,-0.07,"May 19, 2022","Sep 10, 2022",0.0000,2021
+Aviva General Insurance Company,Aviva,-0.07,"May 17, 2022","Sep 1, 2022",0.0000,2021
+Aviva Insurance Company of Canada,Aviva,-0.01,"May 19, 2022","Sep 1, 2022",0.0000,2021
+Aviva General Insurance Company,Aviva,-0.02,"Apr 5, 2022","Jul 1, 2022",0.0000,2021
+Dominion of Canada General Insurance Company (The),Travelers,-0.02,"Apr 7, 2022","Jul 17, 2022",0.0000,2021
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,0.04,"Mar 30, 2022","Jul 1, 2022",0.0000,2021
+Allstate Insurance Company of Canada,Allstate,-0.57,"Mar 31, 2022","Jun 15, 2022",5.3858,2020
+Gore Mutual Insurance Company,Gore,4.94,"Apr 25, 2022","Jul 1, 2022",0.0000,2021
+Co-operators General Insurance Company,Co-op,-2.19,"May 5, 2022","Aug 5, 2022",0.0000,2021
+Security National Insurance Company,TD,-0.14,"Mar 24, 2022","Jul 12, 2022",0.0000,2021
+Primmum Insurance Company,TD,-0.21,"Mar 24, 2022","Jul 12, 2022",0.0000,2021
+Scottish & York Insurance Co. Limited,Aviva,-0.37,"May 19, 2022","Sep 1, 2022",0.0000,2021
+Traders General Insurance Company,Aviva,-0.34,"May 19, 2022","Sep 1, 2022",0.0000,2021
+Facility Association,FA,12.08,"Jan 25, 2022","Jun 1, 2022",0.3634,2020
+Verassure Insurance Company,Northbridge,4.97,"May 27, 2022","Jul 14, 2022",0.0000,2021
+Pafco Insurance Company,Allstate,5.00,"Jun 29, 2022","Sep 8, 2022",0.0000,2021
+Pembridge Insurance Company,Allstate,4.99,"Jun 29, 2022","Sep 8, 2022",0.0000,2021
+Allstate Insurance Company of Canada,Allstate,4.99,"Jun 29, 2022","Sep 8, 2022",0.0000,2021
+Zenith Insurance Company,Northbridge,10.37,"Jun 17, 2022","Oct 1, 2022",0.0000,2021
+Wawanesa Mutual Insurance Company (The),Wawanesa,-0.14,"Jul 29, 2022","Nov 1, 2022",0.0000,2021
+Belair Insurance Company Inc.,Intact,3.60,"Aug 12, 2022","Nov 10, 2022",0.0000,2021
+Definity Insurance Company,Definity,1.39,"Jul 29, 2022","Nov 19, 2022",6.2323,2021
+Verassure Insurance Company,Northbridge,4.96,"Aug 26, 2022","Oct 20, 2022",0.2610,2021
+Primmum Insurance Company,TD,0.00,"Aug 26, 2022","Jan 1, 2023",1.5462,2021
+Security National Insurance Company,TD,0.00,"Aug 26, 2022","Jan 1, 2023",6.6744,2021
+TD General Insurance Company,TD,0.00,"Aug 26, 2022","Jan 1, 2023",2.2022,2021
+Sonnet Insurance Company,Definity,0.00,"Sep 13, 2022","Dec 1, 2022",0.8962,2021
+Definity Insurance Company,Definity,0.00,"Sep 15, 2022","Feb 8, 2023",6.2323,2021
+Aviva General Insurance Company,Aviva,1.17,"Sep 14, 2022","Feb 1, 2023",3.4546,2021
+Certas Home and Auto Insurance Company,Desjardins,1.54,"Aug 4, 2022","Apr 27, 2023",9.6456,2021
+Certas Direct Insurance Company,Desjardins,1.63,"Aug 4, 2022","Apr 27, 2023",2.0168,2021
+Personal Insurance Company (The),Desjardins,1.46,"Aug 4, 2022","Apr 27, 2023",4.0285,2021
+TD General Insurance Company,TD,-0.25,"Mar 24, 2022","Jul 12, 2022",0.0000,2021
+Belair Insurance Company Inc.,Intact,-1.80,"May 12, 2022","Oct 1, 2022",0.0000,2021
+Jevco Insurance Company,Intact,5.00,"Jun 13, 2022","Sep 10, 2022",0.0000,2021
+Intact Insurance Company,Intact,3.44,"Aug 29, 2022","Dec 2, 2022",10.5495,2021
+Optimum Insurance Company Inc.,Optimum,2.64,"Sep 15, 2022","Dec 15, 2022",0.1646,2021
+S&Y Insurance Company,Aviva,0.00,"Sep 21, 2022","Feb 1, 2023",0.3527,2021
+Scottish & York Insurance Co. Limited,Aviva,3.02,"Oct 19, 2022","Feb 1, 2023",1.0496,2021
+Chubb Insurance Company of Canada,Chubb,12.60,"Sep 29, 2022","Feb 1, 2023",0.4414,2021
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,0.00,"Oct 27, 2022","Feb 1, 2023",1.6348,2021
+Co-operators General Insurance Company,Co-op,-0.43,"Oct 18, 2022","Jan 13, 2023",7.3258,2021
+Western Assurance Company,Intact,5.00,"Nov 7, 2019","Feb 15, 2020",1.1445,2018
+Royal & SunAlliance Insurance Company of Canada,Intact,5.00,"Dec 5, 2019","Mar 19, 2020",1.0881,2018
+Unifund Assurance Company,Intact,5.00,"Sep 22, 2022","Dec 1, 2022",2.2645,2021
+Gore Mutual Insurance Company,Gore,-0.80,"Nov 2, 2022","Mar 1, 2023",1.6380,2021
+Belair Insurance Company Inc.,Intact,0.46,"Nov 15, 2022","Feb 1, 2023",6.1341,2021
+SOMPO Japan Insurance Inc.,Sompo,0.00,"Nov 23, 2022","Jan 1, 2023",0.0000,2021
+Peel Mutual Insurance Company,Peel,4.91,"Dec 7, 2022","Mar 1, 2023",0.1784,2021
+Sonnet Insurance Company,Definity,12.28,"Feb 15, 2023","Apr 26, 2023",0.8962,2021
+Gore Mutual Insurance Company,Gore,6.96,"Dec 14, 2022","Mar 10, 2023",1.6380,2021
+Security National Insurance Company,TD,0.00,"Dec 15, 2022","May 1, 2023",6.6744,2021
+TD General Insurance Company,TD,4.98,"Dec 21, 2022","May 1, 2023",2.2022,2021
+Primmum Insurance Company,TD,5.04,"Dec 21, 2022","May 1, 2023",1.5462,2021
+Belair Insurance Company Inc.,Intact,0.00,"Dec 22, 2022","Mar 24, 2023",6.1341,2021
+CAA Insurance Company,CAA,2.17,"Jan 10, 2023","Jun 15, 2023",3.0534,2021
+Allstate Insurance Company of Canada,Allstate,11.72,"Jan 18, 2023","May 1, 2023",5.5475,2021
+Verassure Insurance Company,Northbridge,4.96,"Feb 3, 2023","Apr 29, 2023",0.2610,2021
+Pembridge Insurance Company,Allstate,15.00,"Jan 17, 2023","Apr 1, 2023",2.7045,2021
+Co-operators General Insurance Company,Co-op,0.00,"Jan 20, 2023","Mar 1, 2023",7.3258,2021
+Aviva Insurance Company of Canada,Aviva,0.00,"Jan 19, 2023","Jun 1, 2023",5.6883,2021
+Scottish & York Insurance Co. Limited,Aviva,0.00,"Jan 19, 2023","Jun 1, 2023",1.0496,2021
+Coachman Insurance Company,SGI,9.71,"Jan 26, 2023","Apr 15, 2023",0.1792,2021
+Traders General Insurance Company,Aviva,0.00,"Jan 23, 2023","Jun 1, 2023",1.5101,2021
+Dominion of Canada General Insurance Company (The),Travelers,5.00,"Mar 2, 2023","Aug 13, 2023",0.0000,2022
+Northbridge General Insurance Corporation,Northbridge,12.83,"Mar 6, 2023","Jul 7, 2023",0.0000,2022
+Federated Insurance Company of Canada,Northbridge,22.52,"Mar 7, 2023","Jul 7, 2023",0.0000,2022
+S&Y Insurance Company,Aviva,-0.03,"Mar 20, 2023","Jul 1, 2023",0.0000,2022
+SGI CANADA Insurance Services Ltd.,SGI,9.73,"Mar 20, 2023","Aug 1, 2023",0.0000,2022
+Allstate Insurance Company of Canada,Allstate,0.00,"Mar 21, 2023","Jun 28, 2023",5.5475,2021
+Pembridge Insurance Company,Allstate,0.00,"Mar 21, 2023","Jun 28, 2023",2.7045,2021
+Intact Insurance Company,Intact,1.53,"Mar 22, 2023","Jul 7, 2023",0.0000,2022
+Commonwell Mutual Insurance Group (The),Commonwell,0.11,"Mar 20, 2023","Sep 1, 2023",0.0000,2022
+Commonwell Mutual Insurance Group (The),Commonwell,2.76,"Oct 13, 2017","Mar 1, 2018",0.4246,2017
+Commonwell Mutual Insurance Group (The),Commonwell,0.00,"Mar 15, 2018","Jul 1, 2018",0.4246,2017
+Commonwell Mutual Insurance Group (The),Commonwell,8.61,"Mar 26, 2019","Jun 30, 2019",0.4246,2017
+Commonwell Mutual Insurance Group (The),Commonwell,0.12,"Sep 27, 2019","Jan 1, 2020",0.4653,2018
+Commonwell Mutual Insurance Group (The),Commonwell,-0.10,"Nov 25, 2020","Mar 1, 2021",0.5327,2019
+Continental Casualty Company,Continental,0.00,"Nov 22, 2017","Jan 1, 2018",0.0000,2017
+Continental Casualty Company,Continental,0.00,"Apr 10, 2018","Jul 1, 2018",0.0000,2017
+Continental Casualty Company,Continental,8.09,"Dec 17, 2019","Jan 1, 2020",0.0000,2018
+COSECO Insurance Company,Co-op,5.03,"Feb 21, 2018","Jun 1, 2018",1.2891,2017
+COSECO Insurance Company,Co-op,0.00,"Apr 16, 2018","Oct 1, 2018",1.2891,2017
+COSECO Insurance Company,Co-op,5.03,"Dec 18, 2018","Jun 1, 2019",1.2891,2017
+COSECO Insurance Company,Co-op,10.12,"Oct 15, 2019","Mar 1, 2020",1.3445,2018
+CUMIS General Insurance Company,Co-op,1.86,"Nov 30, 2017","Apr 1, 2018",0.4072,2017
+CUMIS General Insurance Company,Co-op,0.00,"Apr 5, 2018","Oct 1, 2018",0.4072,2017
+CUMIS General Insurance Company,Co-op,-0.02,"Jun 28, 2018","Nov 1, 2018",0.4072,2017
+CUMIS General Insurance Company,Co-op,5.05,"Feb 28, 2019","Sep 1, 2019",0.4057,2018
+CUMIS General Insurance Company,Co-op,1.93,"Jan 16, 2019","Apr 1, 2019",0.4072,2017
+CUMIS General Insurance Company,Co-op,0.00,"May 9, 2019","Oct 1, 2019",0.4057,2018
+CUMIS General Insurance Company,Co-op,0.36,"Feb 28, 2020","Apr 1, 2020",0.4057,2018
+Dominion of Canada General Insurance Company (The),Travelers,2.05,"Mar 6, 2018","May 13, 2018",4.0182,2017
+Dominion of Canada General Insurance Company (The),Travelers,4.49,"Jul 12, 2018","Sep 23, 2018",4.0182,2017
+Dominion of Canada General Insurance Company (The),Travelers,7.62,"Feb 5, 2019","May 17, 2019",4.0182,2017
+Dominion of Canada General Insurance Company (The),Travelers,15.47,"Jul 24, 2019","Oct 20, 2019",4.1674,2018
+Dominion of Canada General Insurance Company (The),Travelers,0.00,"Jun 2, 2020","Oct 21, 2020",3.6989,2019
+Dominion of Canada General Insurance Company (The),Travelers,0.00,"Aug 18, 2020","Apr 1, 2021",3.6989,2019
+Echelon Insurance,CAA,0.00,"Apr 12, 2018","Jul 1, 2018",0.6503,2017
+Echelon Insurance,CAA,7.84,"Aug 21, 2018","Nov 1, 2018",0.6503,2017
+Echelon Insurance,CAA,11.23,"Jan 7, 2019","Mar 15, 2019",0.6503,2017
+Echelon Insurance,CAA,0.00,"Oct 10, 2019","Jan 1, 2020",0.9165,2018
+Echelon Insurance,CAA,5.00,"Dec 19, 2019","Mar 1, 2020",0.9165,2018
+Echelon Insurance,CAA,0.00,"Apr 15, 2021","Jul 1, 2021",1.4913,2020
+Echelon Insurance,CAA,0.00,"Aug 11, 2021","Aug 15, 2021",1.4913,2020
+Echelon Insurance,CAA,0.00,"Sep 15, 2021","Dec 1, 2021",1.4913,2020
+Economical Mutual Insurance Company,Economical,8.15,"Jun 5, 2018","Sep 15, 2018",6.2782,2017
+Economical Mutual Insurance Company,Economical,0.00,"Oct 4, 2018","Jan 28, 2019",6.2782,2017
+Economical Mutual Insurance Company,Economical,11.40,"Mar 14, 2019","May 23, 2019",6.2782,2017
+Economical Mutual Insurance Company,Economical,6.20,"Sep 9, 2019","Nov 25, 2019",6.8016,2018
+Economical Mutual Insurance Company,Economical,4.09,"Mar 2, 2020","May 29, 2020",6.8016,2018
+Economical Mutual Insurance Company,Economical,-0.11,"Jan 27, 2021","May 1, 2021",5.9694,2019
+Esurance Insurance Company of Canada,Allstate,-12.67,"Dec 15, 2017","Feb 25, 2018",0.0068,2017
+Esurance Insurance Company of Canada,Allstate,0.00,"Apr 26, 2018","Jun 30, 2018",0.0068,2017
+Facility Association,FA,0.00,"Apr 25, 2018","Aug 1, 2018",0.1323,2017
+Facility Association,FA,0.00,"Sep 10, 2019","Jan 1, 2020",0.1529,2018
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,1.95,"Dec 1, 2017","Mar 1, 2018",1.7450,2017
+Farm Mutual Reinsurance Plan Inc. (on behalf of Ontario Mutuals),FMRe,0.00,"Mar 22, 2018","Jul 1, 2018",1.7450,2017
+Unifund Assurance Company,RSA,6.03,"Jul 17, 2019","Oct 1, 2019",3.0808,2018
+Unifund Assurance Company,RSA,2.58,"Jul 17, 2019","Oct 1, 2019",3.0808,2018
+Unifund Assurance Company,RSA,3.00,"Jan 13, 2020","Apr 1, 2020",3.0808,2018
+Verassure Insurance Company,Northbridge,0.00,"Jul 20, 2018","Feb 1, 2019",0.0000,2017
+Verassure Insurance Company,Northbridge,0.00,"Mar 6, 2019","Apr 1, 2019",0.0000,2017
+Verassure Insurance Company,Northbridge,0.00,"Sep 15, 2020","Sep 15, 2020",0.0631,2019
+Verassure Insurance Company,Northbridge,-0.02,"Mar 26, 2021","May 14, 2021",0.0631,2019
+Wawanesa Mutual Insurance Company (The),Wawanesa,0.00,"Mar 14, 2018","Jun 1, 2018",3.3494,2017
+Wawanesa Mutual Insurance Company (The),Wawanesa,0.00,"Mar 20, 2018","Jul 1, 2018",3.3494,2017
+Wawanesa Mutual Insurance Company (The),Wawanesa,4.00,"Aug 27, 2018","Nov 1, 2018",3.3494,2017
+Wawanesa Mutual Insurance Company (The),Wawanesa,4.98,"Jan 4, 2019","May 1, 2019",3.3494,2017
+Wawanesa Mutual Insurance Company (The),Wawanesa,5.02,"Aug 30, 2019","Nov 1, 2019",3.2422,2018
+Wawanesa Mutual Insurance Company (The),Wawanesa,4.99,"Jan 17, 2020","May 1, 2020",3.2422,2018
+Wawanesa Mutual Insurance Company (The),Wawanesa,1.96,"Sep 25, 2020","Dec 1, 2020",3.7473,2019
+Wawanesa Mutual Insurance Company (The),Wawanesa,-0.04,"Dec 30, 2020","May 1, 2021",3.7473,2019
+Wawanesa Mutual Insurance Company (The),Wawanesa,-0.16,"Aug 6, 2021","Nov 1, 2021",3.7563,2020
+Western Assurance Company,RSA,5.20,"Sep 29, 2017","Jan 1, 2018",1.0824,2017
+Western Assurance Company,RSA,3.79,"Jul 18, 2018","Oct 15, 2018",1.0824,2017
+Western Assurance Company,RSA,7.42,"Feb 20, 2019","Jun 15, 2019",1.0824,2017
+Western Assurance Company,RSA,0.05,"Apr 18, 2019","Jul 20, 2019",1.1445,2018
+Zenith Insurance Company,Northbridge,7.38,"Mar 7, 2023","Jul 7, 2023",0.0000,2022
+XL Specialty Insurance Company,XL,0.00,"Apr 26, 2018","Jun 1, 2018",0.0000,2017
+Zenith Insurance Company,Northbridge,-0.03,"Nov 21, 2017","Mar 1, 2018",0.4441,2017
+Zenith Insurance Company,Northbridge,0.24,"Feb 6, 2018","Jan 1, 2018",0.4441,2017
+Zenith Insurance Company,Northbridge,0.00,"Apr 16, 2018","Jul 1, 2018",0.4441,2017
+Zenith Insurance Company,Northbridge,10.12,"Nov 7, 2018","Feb 15, 2019",0.4441,2017
+Zenith Insurance Company,Northbridge,-0.04,"Sep 5, 2019","Dec 1, 2019",0.4756,2018
+Zenith Insurance Company,Northbridge,4.93,"Dec 5, 2019","Feb 15, 2020",0.4756,2018
+Zurich Insurance Company,Zurich,0.00,"Apr 10, 2018","Jun 1, 2018",0.0013,2017
+Heartland Farm Mutual Inc.,Heartland,0.64,"Jan 21, 2022","May 1, 2022",0.3225,2020
+Echelon Insurance,CAA,14.94,"Mar 20, 2023","Jul 1, 2023",0.0000,2022
+Traders General Insurance Company,Aviva,0.00,"Mar 29, 2023","May 1, 2023",1.5101,2021
+Heartland Farm Mutual Inc.,Heartland,5.47,"Apr 4, 2023","Jul 1, 2023",0.0000,2022
+Primmum Insurance Company,TD,4.99,"Jun 21, 2022","Sep 25, 2022",0.0000,2021
+Unica Insurance Inc.,La Capitale,4.92,"Dec 22, 2022","Mar 15, 2023",0.4315,2021
+Definity Insurance Company,Definity,3.43,"Jan 25, 2023","Apr 29, 2023",6.2323,2021
+Wawanesa Mutual Insurance Company (The),Wawanesa,0.00,"Mar 6, 2023","Dec 1, 2023",0.0000,2022
+Aviva General Insurance Company,Aviva,-0.01,"Mar 30, 2023","Jul 1, 2023",0.0000,2022
+Federated Insurance Company of Canada,Northbridge,0.29,"Dec 13, 2021","Apr 14, 2022",0.0290,2020
+Zenith Insurance Company,Northbridge,0.03,"Dec 13, 2021","Apr 14, 2022",0.4794,2020
+Northbridge General Insurance Corporation,Northbridge,-0.20,"Dec 10, 2021","Apr 14, 2022",0.8275,2020
+Aviva General Insurance Company,Aviva,3.37,"Aug 11, 2022","Dec 1, 2022",3.4546,2021
+Aviva Insurance Company of Canada,Aviva,2.00,"Aug 19, 2022","Nov 1, 2022",5.6883,2021
+Scottish & York Insurance Co. Limited,Aviva,2.00,"Aug 19, 2022","Nov 1, 2022",1.0496,2021
+Traders General Insurance Company,Aviva,2.00,"Aug 19, 2022","Nov 1, 2022",1.5101,2021
+Aviva Insurance Company of Canada,Aviva,2.92,"Oct 19, 2022","Feb 1, 2023",5.6883,2021
+CUMIS General Insurance Company,Co-op,5.99,"Dec 19, 2022","Jun 1, 2023",0.4550,2021
+Aviva General Insurance Company,Aviva,3.94,"Dec 21, 2022","May 1, 2023",3.4546,2021
+TD General Insurance Company,TD,5.00,"Jun 21, 2022","Sep 25, 2022",0.0000,2021
+CUMIS General Insurance Company,Co-op,0.03,"Jul 20, 2022","Dec 1, 2022",0.0000,2021
+Belair Insurance Company Inc.,Intact,-0.20,"Mar 30, 2023","Jul 3, 2023",0.0000,2022
+Intact Insurance Company,Intact,0.62,"Nov 9, 2022","Feb 4, 2023",10.5495,2021
+CAA Insurance Company,CAA,-10.49,"Nov 10, 2022","Jun 15, 2023",3.0534,2021
+Chubb Insurance Company of Canada,Chubb,0.00,"Nov 10, 2022","Apr 2, 2023",0.4414,2021
+S&Y Insurance Company,Aviva,0.00,"Nov 10, 2022","Feb 2, 2023",0.3527,2021
+Aviva Insurance Company of Canada,Aviva,0.00,"Nov 10, 2022","Mar 1, 2023",5.6883,2021
+Traders General Insurance Company,Aviva,0.00,"Nov 10, 2022","Mar 1, 2023",1.5101,2021
+Scottish & York Insurance Co. Limited,Aviva,-0.11,"Nov 10, 2022","Mar 1, 2023",1.0496,2021
+Facility Association,FA,13.08,"Jan 17, 2023","May 1, 2023",0.3703,2021
+Personal Insurance Company (The),Desjardins,5.00,"Mar 14, 2023","May 30, 2023",4.0285,2021
+Certas Direct Insurance Company,Desjardins,5.00,"Mar 15, 2023","May 30, 2023",2.0168,2021
+Certas Home and Auto Insurance Company,Desjardins,5.00,"Mar 14, 2023","May 30, 2023",9.6456,2021
+Jevco Insurance Company,Intact,-0.01,"Mar 8, 2018","Jun 8, 2018",0.7727,2017
+Jevco Insurance Company,Intact,0.00,"Apr 4, 2018","Jul 13, 2018",0.7727,2017
+Jevco Insurance Company,Intact,11.60,"Sep 21, 2018","Dec 14, 2018",0.7727,2017
+Jevco Insurance Company,Intact,5.00,"Feb 28, 2019","May 10, 2019",0.7727,2017
+Jevco Insurance Company,Intact,6.00,"Nov 12, 2019","Feb 8, 2020",0.6507,2018
+Jevco Insurance Company,Intact,0.00,"Sep 21, 2020","Dec 18, 2020",0.8513,2019
+Liberty Mutual Insurance Company,Liberty,0.00,"Apr 10, 2018","Jul 1, 2018",0.0000,2017
+Northbridge General Insurance Corporation,Northbridge,0.00,"Mar 28, 2018","Apr 1, 2018",0.6537,2017
+Northbridge General Insurance Corporation,Northbridge,-0.03,"Apr 18, 2018","Jul 1, 2018",0.6537,2017
+Northbridge General Insurance Corporation,Northbridge,-0.26,"Jun 6, 2018","Aug 1, 2018",0.6537,2017
+Northbridge General Insurance Corporation,Northbridge,0.48,"Oct 18, 2019","Jan 1, 2020",0.7330,2018
+Northbridge General Insurance Corporation,Northbridge,0.00,"Apr 18, 2018","Jul 1, 2018",0.6537,2017
+Northbridge General Insurance Corporation,Northbridge,0.00,"Oct 18, 2018","Jan 15, 2019",0.6537,2017
+Northbridge General Insurance Corporation,Northbridge,10.52,"Jul 25, 2019","Oct 15, 2019",0.7330,2018
+Novex Insurance Company,Intact,6.01,"Mar 9, 2018","May 11, 2018",1.0420,2017
+Novex Insurance Company,Intact,0.00,"May 17, 2018","Sep 8, 2018",1.0420,2017
+Novex Insurance Company,Intact,6.00,"Aug 10, 2018","Oct 19, 2018",1.0420,2017
+Novex Insurance Company,Intact,5.01,"Jun 20, 2019","Sep 7, 2019",1.0021,2018
+Novex Insurance Company,Intact,0.00,"Sep 11, 2019","Dec 6, 2019",1.0021,2018
+Novex Insurance Company,Intact,5.00,"Nov 15, 2019","Feb 8, 2020",1.0021,2018
+Novex Insurance Company,Intact,0.00,"Jan 24, 2020","Apr 10, 2020",1.0021,2018
+Optimum Insurance Company Inc.,Optimum,6.50,"Mar 26, 2018","Jun 5, 2018",0.1794,2017
+Optimum Insurance Company Inc.,Optimum,0.00,"Apr 16, 2018","Jul 1, 2018",0.1794,2017
+Optimum Insurance Company Inc.,Optimum,5.00,"Sep 27, 2018","Jan 1, 2019",0.1794,2017
+Optimum Insurance Company Inc.,Optimum,0.00,"Mar 22, 2019","Jun 15, 2019",0.1794,2017
+Optimum Insurance Company Inc.,Optimum,7.00,"Jul 23, 2019","Oct 15, 2019",0.1796,2018
+Pafco Insurance Company,Allstate,3.94,"Jan 8, 2018","Apr 15, 2018",0.3758,2017
+Pafco Insurance Company,Allstate,0.00,"Mar 28, 2018","Sep 1, 2018",0.3758,2017
+Pafco Insurance Company,Allstate,6.00,"Nov 27, 2018","Mar 1, 2019",0.3758,2017
+Pafco Insurance Company,Allstate,1.40,"May 13, 2019","Aug 1, 2019",0.3184,2018
+Pafco Insurance Company,Allstate,0.00,"Sep 20, 2019","Dec 15, 2019",0.3184,2018
+Pafco Insurance Company,Allstate,5.00,"Jan 21, 2020","Apr 7, 2020",0.3184,2018
+Pembridge Insurance Company,Allstate,0.83,"Jan 12, 2018","Apr 15, 2018",1.4765,2017
+Pembridge Insurance Company,Allstate,0.00,"Mar 28, 2018","Sep 1, 2018",1.4765,2017
+Pembridge Insurance Company,Allstate,0.00,"Jul 31, 2018","Dec 16, 2018",1.4765,2017
+Pembridge Insurance Company,Allstate,7.95,"Dec 10, 2018","Mar 1, 2019",1.4765,2017
+Pembridge Insurance Company,Allstate,0.40,"Apr 12, 2019","May 15, 2019",1.4765,2017
+Pembridge Insurance Company,Allstate,4.00,"Aug 29, 2019","Nov 15, 2019",1.7665,2018
+Pembridge Insurance Company,Allstate,0.00,"Sep 20, 2019","Dec 15, 2019",1.7665,2018
+Pembridge Insurance Company,Allstate,0.00,"Jan 12, 2021","Mar 15, 2021",2.0515,2019
+Pembridge Insurance Company,Allstate,-3.94,"Oct 18, 2021","Dec 21, 2021",2.2902,2020
+Personal Insurance Company (The),Desjardins,5.57,"Mar 15, 2018","May 28, 2018",4.0744,2017
+Personal Insurance Company (The),Desjardins,0.00,"May 15, 2018","Oct 2, 2018",4.0744,2017
+Personal Insurance Company (The),Desjardins,3.76,"Sep 13, 2018","Nov 14, 2018",4.0744,2017
+Personal Insurance Company (The),Desjardins,10.05,"Dec 21, 2018","Mar 12, 2019",4.0744,2017
+Personal Insurance Company (The),Desjardins,0.00,"Jan 24, 2019","Apr 30, 2019",4.0744,2017
+Personal Insurance Company (The),Desjardins,0.00,"Sep 3, 2019","Nov 19, 2019",4.2175,2018

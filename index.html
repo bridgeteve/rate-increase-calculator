@@ -16,19 +16,21 @@
         <div id="header" class="header">my<span style="font-weight: 900;">choice</span></div>
             <div class="title">
                 <h1>Rate Increase Calculator</h1>
+                <p>Curious to learn how much your rate has increased over the past few years? </p>
             </div>
             <div class="wrapper">
                 <label for="insurer">Select your insurer:</label>
                     <select id="insurer" >
-                        <option value="" disabled selected hidden>Please Choose...</option>
+                        <option  id="placeholder" value="" disabled selected hidden>Please Choose...</option>
                     </select>
-                <label for="signupDate">Enter your signup date:</label>
-                    <input type="date" id="signupDate">
+                <label for="signupDate">Enter your signup date*:</label>
+                    <input type="date" id="signupDate" name="signupDate" min="2018-01-01">
+                    <p>*Our data only goes back as far as 2018</p>
             <button id="calculate">Calculate Rate Increase</button>
             <div id="results"></div>
         </div>
     </div>
-    <script src="data.js"></script>
+    <script src="data1.js"></script>
     <script src="app.js"></script>
 </body>
 

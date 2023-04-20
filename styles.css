@@ -72,3 +72,9 @@ button:hover {
 .header {
     font-size: 30px;
 }
+.res {
+    width: 75vh;
+    height: 100px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 30px;
+}
