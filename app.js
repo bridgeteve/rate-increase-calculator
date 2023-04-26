@@ -95,15 +95,18 @@ const calculateRateIncrease = (selectedInsurer, dateSelected) => {
             ul.appendChild(li)
         };
         results.setAttribute("class", "res");
-        results.innerHTML = `<p>Looks like your rate went up by ${formatted}%!</p>
-        <p>We've taken the liberty of comparing your increase against other insurers.</p>
+        results.innerHTML = `<p>Looks like your rate went up by <span style="font-weight: 700;">${formatted}%!</span></p>
+        <p>We've taken the liberty of comparing your increase against other insurers to look for lower rate changes.</p>
         <p>In the same timeframe, these insurers had the following rate changes:<p>`;
         results.appendChild(ul);
+        results.addEventListener("animationend", () => {
+            results.scrollIntoView({ behavior: "smooth" });
+        });
         increase = 0;
     } else if (increase < 0) {
         formatted = formatted.slice(1)
         results.setAttribute("class", "res");
-        results.innerText = `Wow! Looks like your rate went down by ${formatted}%`
+        results.innerText = `Wow! Looks like your rate went down by <span style="font-weight: 700;">${formatted}%</span>`
         increase = 0;
     } else {
         results.setAttribute("class", "res");
