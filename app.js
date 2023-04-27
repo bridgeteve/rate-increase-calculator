@@ -106,7 +106,7 @@ const calculateRateIncrease = (selectedInsurer, dateSelected) => {
     } else if (increase < 0) {
         formatted = formatted.slice(1)
         results.setAttribute("class", "res");
-        results.innerText = `Wow! Looks like your rate went down by <span style="font-weight: 700;">${formatted}%</span>`
+        results.innerHTML = `Wow! Looks like your rate went down by <span style="font-weight: 700;">${formatted}%</span>`
         increase = 0;
     } else {
         results.setAttribute("class", "res");
