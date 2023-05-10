@@ -11,9 +11,9 @@ background-color: #F8F8F8;
 
 select {
     border-radius: 10px;
-    border-color: #F2B479;
+    border: solid medium #8ED6DC;
     background-color: transparent;
-    padding: 5px;
+    padding: 10px;
     font-family: 'Lato', sans-serif;
 }
 select:hover {
@@ -23,13 +23,19 @@ select:hover {
 label {
     margin-top: 15px;
     margin-bottom: 5px;
+    font-size: 21px;
+}
+input {
+    box-sizing: border-box;
+    height: 45px;
+    border-color: #8ED6DC;
 }
 input[type="date"] {
+    border: solid medium #8ED6DC;
+    margin-top: 10px;
     background-color: transparent;
     border-radius: 10px;
-    border-width: thin;
     padding: 5px;
-    border-color: #F2B479;  
     font-family: 'Lato', sans-serif;
 }
 input:hover {
@@ -44,7 +50,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     cursor: pointer;
 }
 
-button {
+#calculate {
     border: none;
     border-radius: 10px;
     background-color: #F2B479;
@@ -52,12 +58,12 @@ button {
     color: whitesmoke;
     font-family: 'Lato', sans-serif;
     font-size: 20px;
-    margin-top: 10px;
+    margin-top: 25px;
     padding: 10px;
     box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.2);
 }
 
-button:hover {
+#calculate:hover {
     cursor: pointer;
     background-color: #8ED6DC;
 }
@@ -71,7 +77,7 @@ button:hover {
     opacity: 1;
    }
 }
-.wrapper {
+.wrapper { 
     display: flex;
     flex-direction: column;
     width: 75vw;
@@ -85,7 +91,7 @@ button:hover {
     font-size: 30px;
 }
 .res {
-    width: 67vw;
+    width: 68vw;
     height: auto;
     font-family: 'Lato', sans-serif;
     margin-top: 25px;
@@ -97,4 +103,7 @@ button:hover {
     border-radius: 10px;
     padding: 25px;
     animation: move 1.25s ease-in forwards;
+}
+#tip {
+    cursor:pointer;
 }

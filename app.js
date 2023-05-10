@@ -1,3 +1,4 @@
+
 //Add possible insurers to dropdown
 const select = document.getElementById("insurer");
 const options = new Set([]);
@@ -95,7 +96,7 @@ const calculateRateIncrease = (selectedInsurer, dateSelected) => {
             ul.appendChild(li)
         };
         results.setAttribute("class", "res");
-        results.innerHTML = `<p>Looks like your rate went up by <span style="font-weight: 700;">${formatted}%!</span></p>
+        results.innerHTML = `<p style="font-size: 19px">Looks like your rate went up by <span style="font-weight: 700; color:#FF0000">${formatted}%</span>!</p>
         <p>We've taken the liberty of comparing your increase against other insurers to look for lower rate changes.</p>
         <p>In the same timeframe, these insurers had the following rate changes:<p>`;
         results.appendChild(ul);
@@ -106,11 +107,11 @@ const calculateRateIncrease = (selectedInsurer, dateSelected) => {
     } else if (increase < 0) {
         formatted = formatted.slice(1)
         results.setAttribute("class", "res");
-        results.innerHTML = `Wow! Looks like your rate went down by <span style="font-weight: 700;">${formatted}%</span>`
+        results.innerHTML = `<p style="font-size: 19px">Wow! Looks like your rate went down by <span style="font-weight: 700; color:#50C878">${formatted}%</span>!</p>`
         increase = 0;
     } else {
         results.setAttribute("class", "res");
-        results.innerText = "Lucky duck! No increase for you."
+        results.innerHTML = `<p style="font-size: 19px">Lucky duck! No increase for you.</p>`
     }
 };
 //Perform calculations when button is clicked

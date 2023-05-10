@@ -13,23 +13,19 @@
 
 <body>
     <div class="calculator">
-        <div id="header" class="header">my<span style="font-weight: 900;">choice</span></div>
         <div class="wrapper">
-        <div class="title">
-                <h1>Rate Increase Calculator</h1>
-                </div>
-                <p class="description">Curious to learn how much your rate has increased over the past few years? </p>
-                <label for="insurer">Select your insurer:</label>
+                <label id="select-insurer" for="insurer">Select your insurer:</label>
                     <select id="insurer" >
                         <option  id="placeholder" value="" disabled selected hidden>Please Choose...</option>
                     </select>
-                <label for="signupDate">Enter your signup date*:</label>
+                <label for="signupDate">Enter your signup date<span id="tip" data-tippy="Our data goes back as far as 2018" data-tippy-arrow="true" data-tippy-placement="top">*</span>:</label>
                     <input type="date" id="signupDate" name="signupDate" min="2018-01-01" max="2023-12-31">
-                    <p>*Our data only goes back as far as 2018</p>
             <button id="calculate">Calculate Rate Increase</button>
             <div id="results"></div>
         </div>
     </div>
+    <script src="https://unpkg.com/popper.js@1"></script>
+    <script src="https://unpkg.com/tippy.js@4"></script>
     <script src="data1.js"></script>
     <script src="app.js"></script>
 </body>
