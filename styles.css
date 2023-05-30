@@ -1,109 +1,141 @@
 h1 {
-    font-family:'Lato', sans-serif;
-    color: #3A3A3A;
+  font-family: "Latoregular", sans-serif;
+  color: #3a3a3a;
 }
 
-body  {
-font-family: 'Lato', sans-serif;
-color: #3A3A3A;
-background-color: #F8F8F8;
+body {
+  font-family: "Latoregular", sans-serif;
+  color: #3a3a3a;
+  background-color: #f8f8f8;
+}
+option {
+  font-size: 18px;
 }
 
 select {
-    border-radius: 10px;
-    border: solid medium #8ED6DC;
-    background-color: transparent;
-    padding: 10px;
-    font-family: 'Lato', sans-serif;
+  box-sizing: border-box;
 }
-select:hover {
-    cursor: pointer;
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  margin: 0 auto;
+}
+.select-insurer-calc {
+  border: 1px solid silver;
+  appearance: none;
+  background: #fff
+    url(http://localhost:4789/static/media/arrow-down-small-gray.a5a4f46d59835380cb44.svg)
+    no-repeat right 1rem center;
+  background-size: 0.75rem;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  outline: none;
+  transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
+    opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+  box-sizing: border-box;
+}
+.select-insurer-calc:hover {
+  cursor: pointer;
+  border: 1px solid #8ed6dc;
+}
+.select-insurer-calc:focus {
+  border: 1px solid #8ed6dc;
 }
 
 label {
-    margin-top: 15px;
-    margin-bottom: 5px;
-    font-size: 21px;
-}
-input {
-    box-sizing: border-box;
-    height: 45px;
-    border-color: #8ED6DC;
-}
-input[type="date"] {
-    border: solid medium #8ED6DC;
-    margin-top: 10px;
-    background-color: transparent;
-    border-radius: 10px;
-    padding: 5px;
-    font-family: 'Lato', sans-serif;
-}
-input:hover {
-    cursor: pointer;
-}
-input[type="date"]::-webkit-datetime-edit-text {
-    padding: 5px;
-    color: #3A3A3A;
-    outline: none;
-}
-input[type="date"]::-webkit-calendar-picker-indicator {
-    cursor: pointer;
+  margin-top: 15px;
+  font-size: 25px;
 }
 
 #calculate {
-    border: none;
-    border-radius: 10px;
-    background-color: #F2B479;
-    border-color: whitesmoke;
-    color: whitesmoke;
-    font-family: 'Lato', sans-serif;
-    font-size: 20px;
-    margin-top: 25px;
-    padding: 10px;
-    box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.2);
+  border: none;
+  border-radius: 10px;
+  background-color: #f2b479;
+  border-color: whitesmoke;
+  color: whitesmoke;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  margin-top: 25px;
+  padding: 10px;
+  box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.2);
 }
 
 #calculate:hover {
-    cursor: pointer;
-    background-color: #8ED6DC;
+  cursor: pointer;
+  background-color: #8ed6dc;
 }
 @keyframes move {
-   from {
+  from {
     margin-left: -150%;
     opacity: 0;
-   }
-   to {
+  }
+  to {
     margin-left: 0%;
     opacity: 1;
-   }
+  }
 }
-.wrapper { 
-    display: flex;
-    flex-direction: column;
-    width: 75vw;
-    margin: 0 auto;
-}
+
 .description {
-    margin: 0 0 0 0;
+  margin: 0 0 0 0;
 }
 
 .header {
-    font-size: 30px;
+  font-size: 30px;
 }
 .res {
-    width: 68vw;
-    height: auto;
-    font-family: 'Lato', sans-serif;
-    margin-top: 25px;
-    margin-bottom: 20px;
-    background-color: whitesmoke;
-    border-color: #F7C2D9;
-    border-style: solid;
-    border-width: 4px 4px 4px 4px;
-    border-radius: 10px;
-    padding: 25px;
-    animation: move 1.25s ease-in forwards;
+  height: auto;
+  font-family: "Latoregular", sans-serif;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  background-color: whitesmoke;
+  border-color: #f7c2d9;
+  border-style: solid;
+  border-width: 4px 4px 4px 4px;
+  border-radius: 10px;
+  padding: 25px;
+  animation: move 1.25s ease-in forwards;
 }
 #tip {
-    cursor:pointer;
+  cursor: pointer;
+}
+.date-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  column-gap: 0rem;
+}
+.date-content-calc {
+  display: flex;
+  gap: 1rem;
+}
+
+.day-select-calc {
+  flex-grow: 2;
+  flex-shrink: 1;
+  flex-basis: 0%;
+}
+
+.month-select-calc {
+  flex-grow: 6;
+  flex-shrink: 1;
+  flex-basis: 0%;
+}
+.year-select-calc {
+  flex-grow: 3;
+  flex-shrink: 1;
+  flex-basis: 0%;
+}
+.large-calc {
+  height: 3.75rem;
+  min-width: 3.75rem;
+}
+
+.input-form-calc {
+  color: #212121;
+  border-radius: 0.25rem;
+  border: 1px solid silver;
+  width: 100%;
+  padding: 0 1.25rem;
+  font-family: "Latoregular", sans-serif;
+  font-size: 1.125rem;
 }

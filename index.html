@@ -14,12 +14,28 @@
 <body>
     <div class="calculator">
         <div class="wrapper">
+            <div class="date-container">
                 <label id="select-insurer" for="insurer">Select your insurer:</label>
-                    <select id="insurer" >
-                        <option  id="placeholder" value="" disabled selected hidden>Please Choose...</option>
+                <select id="insurer" class="input-form-calc large-calc select-insurer-calc">
+                    <option id="placeholder" value="" disabled selected hidden>Please Choose...</option>
+                </select>
+            </div>
+            <div class="date-container">
+                <label for="signupDate">Enter your signup date<span id="tip"
+                        data-tippy="Our data goes back as far as 2018" data-tippy-arrow="true"
+                        data-tippy-placement="top">*</span>:</label>
+                <!-- <input type="date" id="signupDate" name="signupDate" min="2018-01-01" max="2023-12-31"> -->
+                <div class="date-content-calc">
+                    <select class="input-form-calc day-select-calc large-calc select-insurer-calc" name="signupDay"
+                        id="signupDay">
+                        <option class="disabled" value disabled>Day</option>
                     </select>
-                <label for="signupDate">Enter your signup date<span id="tip" data-tippy="Our data goes back as far as 2018" data-tippy-arrow="true" data-tippy-placement="top">*</span>:</label>
-                    <input type="date" id="signupDate" name="signupDate" min="2018-01-01" max="2023-12-31">
+                    <select class="input-form-calc month-select-calc large-calc select-insurer-calc" name="signupMonth"
+                        id="signupMonth"></select>
+                    <select class="input-form-calc year-select-calc large-calc select-insurer-calc" name="signupYear"
+                        id="signupYear"></select>
+                </div>
+            </div>
             <button id="calculate">Calculate Rate Increase</button>
             <div id="results"></div>
         </div>
