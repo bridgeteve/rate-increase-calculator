@@ -8,18 +8,42 @@ body {
   color: #3a3a3a;
   background-color: #f8f8f8;
 }
+
 option {
-  font-size: 18px;
+  font-weight: normal;
+  display: block;
+  white-space: nowrap;
+  min-height: 1.2em;
+  padding: 0px 2px 1px;
 }
 
 select {
   box-sizing: border-box;
+  min-width: 80px;
+  padding: 0.5em 1.5em 0.5em 0.5em;
+}
+@media (max-width: 600px) {
+  select {
+    background-position: right 0.625rem center;
+    background-size: 0.75rem;
+  }
+}
+.calculator {
+  /* max-width: 490px; */
+  min-width: 370px;
 }
 .wrapper {
+  overflow: hidden;
   display: flex;
   flex-direction: column;
-  width: 40vw;
+  min-width: 370px;
+  max-width: 470px;
   margin: 0 auto;
+  gap: 2rem;
+  padding: 4rem 2rem;
+  box-shadow: 0 3px 6px rgba(247, 194, 217, 0.3607843137);
+  border-radius: 0.25rem;
+  background-color: #fff;
 }
 .select-insurer-calc {
   border: 1px solid silver;
@@ -36,27 +60,30 @@ select {
 }
 .select-insurer-calc:hover {
   cursor: pointer;
-  border: 1px solid #8ed6dc;
+  border: 3px solid #8ed6dc;
 }
 .select-insurer-calc:focus {
-  border: 1px solid #8ed6dc;
+  border: 3px solid #8ed6dc;
 }
 
-label {
+.label-calc {
   margin-top: 15px;
-  font-size: 25px;
+  font-size: 1.375rem;
+  font-weight: 600;
 }
 
 #calculate {
   border: none;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   background-color: #f2b479;
   border-color: whitesmoke;
   color: whitesmoke;
   font-family: "Lato", sans-serif;
-  font-size: 20px;
+  font-size: 1.125rem;
   margin-top: 25px;
-  padding: 10px;
+  height: 3.75rem;
+  min-width: 3.75rem;
+  padding: 1px 6px;
   box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.2);
 }
 
@@ -66,11 +93,11 @@ label {
 }
 @keyframes move {
   from {
-    margin-left: -150%;
+    margin-top: -100%;
     opacity: 0;
   }
   to {
-    margin-left: 0%;
+    margin-top: 0%;
     opacity: 1;
   }
 }
@@ -82,12 +109,15 @@ label {
 .header {
   font-size: 30px;
 }
+.container {
+  overflow: hidden;
+}
 .res {
   height: auto;
   font-family: "Latoregular", sans-serif;
   margin-top: 25px;
   margin-bottom: 20px;
-  background-color: whitesmoke;
+  background-color: transparent;
   border-color: #f7c2d9;
   border-style: solid;
   border-width: 4px 4px 4px 4px;
@@ -95,6 +125,7 @@ label {
   padding: 25px;
   animation: move 1.25s ease-in forwards;
 }
+
 #tip {
   cursor: pointer;
 }
@@ -107,6 +138,8 @@ label {
 .date-content-calc {
   display: flex;
   gap: 1rem;
+  position: relative;
+  min-width: 370px;
 }
 
 .day-select-calc {
