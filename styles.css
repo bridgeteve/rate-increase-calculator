@@ -49,7 +49,7 @@ select {
   border: 1px solid silver;
   appearance: none;
   background: #fff
-    url(http://localhost:4789/static/media/arrow-down-small-gray.a5a4f46d59835380cb44.svg)
+    url(	https://staging.new.mychoice.ca/static/media/arrow-down-small-gray.a5a4f46d59835380cb44.svg)
     no-repeat right 1rem center;
   background-size: 0.75rem;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
